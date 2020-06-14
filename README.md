@@ -5,7 +5,7 @@ SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Hwang Jihun
 
 1. A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
 
-2. Pitch Video*
+2. Pitch video: https://youtu.be/Pj-qUqQF0S4
 
 3. The architecture of your proposed solution*
 
