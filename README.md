@@ -1,5 +1,5 @@
 # TeamName-SolutionName_SCDFXIBM
-SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Jihun | Singapore Polytechnic
+SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Hwang Jihun | Singapore Polytechnic
 
 a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
 
