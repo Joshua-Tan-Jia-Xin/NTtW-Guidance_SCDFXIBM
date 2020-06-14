@@ -31,6 +31,7 @@ Display of the fire location, will also be shown on the display near the lift
 
 **3**. The architecture of your proposed solution
 
+![]()
 
 **4**. A hyperlink to your detailed solution :
 
