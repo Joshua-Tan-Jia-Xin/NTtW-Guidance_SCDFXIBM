@@ -1,20 +1,24 @@
 # TeamName-SolutionName_SCDFXIBM
 SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Hwang Jihun | Singapore Polytechnic
 
-a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
+**Content**
 
-b) Pitch Video*
+1. A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
 
-c) The architecture of your proposed solution*
+2. Pitch Video*
 
-d) A hyperlink to your detailed solution* (Long description of your solution)
+3. The architecture of your proposed solution*
 
-e) Project Roadmap/ Proposed timeline
+4. A hyperlink to your detailed solution* (Long description of your solution)
 
-f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
+5. Project Roadmap/ Proposed timeline
 
-g) Running the tests (Explanation and breakdown on how to run tests for the proposed solution)
+6. Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
-h) Live demo (Link to an actual working demo/website)
+7. Running the tests (Explanation and breakdown on how to run tests for the proposed solution)
 
-i) What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
+8. Live demo (Link to an actual working demo/website)
+
+9. What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
+
+10. Contributors
