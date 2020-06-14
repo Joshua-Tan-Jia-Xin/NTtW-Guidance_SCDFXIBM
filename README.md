@@ -34,7 +34,7 @@ Display of the fire location, will also be shown on the display near the lift
 ![](1932fa11-7f42-4120-ba18-b9a0170bfcb7.jpg)
 
 **4**. A hyperlink to your detailed solution :
-![](Detailed solution.md)
+[Detailed solution.md]
 
 **5**. Project Roadmap/ Proposed timeline
 
