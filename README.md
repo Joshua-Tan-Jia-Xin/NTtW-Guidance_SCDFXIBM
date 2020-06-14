@@ -31,7 +31,7 @@ Display of the fire location, will also be shown on the display near the lift
 
 **3**. The architecture of your proposed solution
 
-![](https://github.com/Joshua-Tan-Jia-Xin/NTtW-Guidance_SCDFXIBM/issues/1#issue-638319404)
+![](1932fa11-7f42-4120-ba18-b9a0170bfcb7.jpg)
 
 **4**. A hyperlink to your detailed solution :
 Detailed solution.md 
