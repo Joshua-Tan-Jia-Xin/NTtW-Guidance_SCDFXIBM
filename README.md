@@ -1,4 +1,4 @@
-# TeamName-SolutionName_SCDFXIBM
+# NTtW-Guidance_SCDFXIBM
 SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Hwang Jihun | Singapore Polytechnic
 
 **Content**
