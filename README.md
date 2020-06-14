@@ -38,13 +38,12 @@ Display of the fire location, will also be shown on the display near the lift
 
 **5**. Project Roadmap/ Proposed timeline
 
-**6**. Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
+**6**. Getting started
 
-**7**. Running the tests (Explanation and breakdown on how to run tests for the proposed solution)
+Download Arduino IDE from https://www.arduino.cc/
+Open file
 
-**8**. Live demo (Link to an actual working demo/website)
-
-**9**. What your team used to build your solution
+**7**. What your team used to build your solution
 
 IBM Internet of Things watsons platform (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
 
