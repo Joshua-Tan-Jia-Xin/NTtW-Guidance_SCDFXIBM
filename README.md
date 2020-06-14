@@ -29,7 +29,8 @@ Display of the fire location, will also be shown on the display near the lift
 
 **2**. Pitch video: https://youtu.be/Pj-qUqQF0S4
 
-**3**. The architecture of your proposed solution*
+**3**. The architecture of your proposed solution
+
 
 **4**. A hyperlink to your detailed solution :
 
