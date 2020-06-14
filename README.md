@@ -36,17 +36,14 @@ Display of the fire location, will also be shown on the display near the lift
 **4**. A hyperlink to your detailed solution :
 [Detailed solution.md]
 
-**5**. Project Roadmap/ Proposed timeline
-
-**6**. Getting started
+**5**. Getting started
 
 Download Arduino IDE from https://www.arduino.cc/
 1. Open Arduino_simluation.ino
 2. Plug in the Arduino to the computer along with buzzer, buttons, red led and green led at pins 6, 3, 8 and 7 respectively
 3. Click upload 
 
-
-**7**. What your team used to build your solution
+**6**. What your team used to build your solution
 
 IBM Internet of Things watsons platform (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
 
