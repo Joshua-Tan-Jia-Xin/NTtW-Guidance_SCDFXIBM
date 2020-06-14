@@ -31,7 +31,9 @@ Display of the fire location, will also be shown on the display near the lift
 
 **3**. The architecture of your proposed solution*
 
-**4**. A hyperlink to your detailed solution* (Long description of your solution)
+**4**. A hyperlink to your detailed solution :
+
+
 
 **5**. Project Roadmap/ Proposed timeline
 
@@ -45,4 +47,3 @@ Display of the fire location, will also be shown on the display near the lift
 
 IBM Internet of Things watsons platform (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
 
-**10**. Contributors
