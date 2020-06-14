@@ -41,7 +41,10 @@ Display of the fire location, will also be shown on the display near the lift
 **6**. Getting started
 
 Download Arduino IDE from https://www.arduino.cc/
-Open file
+1. Open Arduino_simluation.ino
+2. Plug in the Arduino to the computer along with buzzer, buttons, red led and green led at pins 6, 3, 8 and 7 respectively
+3. Click upload 
+
 
 **7**. What your team used to build your solution
 
