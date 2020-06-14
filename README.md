@@ -20,6 +20,7 @@ SCDFxIBM call for code 2020 | Team members: Tan Jia Xin, Franky Lim, Hwang Jihun
 8. Live demo (Link to an actual working demo/website)
 
 9. What your team used to build your solution
+
 IBM Internet of Things watsons platform (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
 
 10. Contributors
